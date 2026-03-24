@@ -45,7 +45,7 @@ export default function Hero() {
                     </button>
                     <button
                         className="btn btn-outline btn-lg"
-                        onClick={() => scrollTo('#transformations')}
+                        onClick={() => scrollTo('#results')}
                     >
                         View Success Stories
                     </button>

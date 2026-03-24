@@ -67,7 +67,7 @@ export default function Contact() {
                             <div className="contact__direct">
                                 <p className="contact__direct-label">Or reach out directly:</p>
                                 <a
-                                    href="https://wa.me/919999999999"
+                                    href="https://wa.me/918374745064"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="contact__whatsapp"

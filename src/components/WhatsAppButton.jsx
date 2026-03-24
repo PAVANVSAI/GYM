@@ -3,7 +3,7 @@ import './WhatsAppButton.css'
 export default function WhatsAppButton() {
     return (
         <a
-            href="https://wa.me/919999999999?text=Hi%20Coach%20Alex!%20I%27m%20interested%20in%20your%20fitness%20coaching%20program."
+            href="https://wa.me/918374745064?text=Hi%20Coach%20Alex!%20I%27m%20interested%20in%20your%20fitness%20coaching%20program."
             target="_blank"
             rel="noopener noreferrer"
             className="whatsapp-btn"
