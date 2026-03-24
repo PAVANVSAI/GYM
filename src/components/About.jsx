@@ -22,7 +22,7 @@ export default function About() {
                 {/* Photo */}
                 <div className="about__photo-wrap reveal-left">
                     <div className="about__photo-frame">
-                        <img src="/coach.png" alt="Coach Alex" className="about__photo-img" />
+                        <img src={`${import.meta.env.BASE_URL}coach.png`} alt="Coach Alex" className="about__photo-img" />
                         <div className="about__photo-badge">
                             <span className="about__photo-badge-num">500+</span>
                             <span className="about__photo-badge-text">Lives Changed</span>
